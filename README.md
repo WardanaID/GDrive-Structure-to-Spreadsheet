@@ -12,7 +12,7 @@ GDrive Structure to Spreadsheet adalah skrip Google Apps Script yang secara otom
 ## Cara Penggunaan
 
 1. **Buat Spreadsheet Baru**
-   - Buka Google Spreadsheet dan buat dokumen baru sesuai kebutuhan.
+   - Buka Google Spreadsheet dan buat dokumen kosong
 
 2. **Buka Editor Apps Script**
    - Klik menu **Extensions → Apps Script**.
